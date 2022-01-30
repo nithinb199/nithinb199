@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nithinb199
 - 👀 I’m interested in cricket, cars and stock market
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning Swift
 - 📫 nithinb199@gmail.com
 
 <!---
