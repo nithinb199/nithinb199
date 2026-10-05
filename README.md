@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @nithinb199
-- 👀 I’m interested in cricket, cars and stock market
-- 🌱 I’m currently learning Swift
-- 📫 nithinb199@gmail.com
+# Hi, I'm Nithin B 👋
 
-<!---
-nithinb199/nithinb199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Senior iOS Engineer
+
+I build production-grade iOS applications with **Swift, SwiftUI and UIKit**.
+
+I've been working in software engineering since 2018, with a focus on iOS development, mobile architecture, networking, security, testing and automation.
+
+### What I work with
+
+- 📱 iOS Development
+- 🧑‍💻 Swift, SwiftUI & UIKit
+- 🏗️ Mobile Architecture & MVVM
+- 🌐 Networking & REST APIs
+- 🧪 XCTest & XCUITest
+- 🔐 Mobile Security
+- ⚡ Performance & Reliability
+- 🤖 AI-assisted Software Development
+
+### What I'm exploring
+
+I'm interested in how AI is changing software engineering — particularly how it can help developers understand large codebases, solve problems and build better products.
+
+### Connect with me
+
+- 💼 
+- 🌐 
+
+---
+
+> Building, learning and sharing along the way.
